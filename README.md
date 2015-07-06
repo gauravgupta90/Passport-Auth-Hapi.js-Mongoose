@@ -52,7 +52,7 @@ You can change the settings in server/config/config.js file
 
 ### Other Usefull Link
 
-[Express-Mongoose-Angular] (https://github.com/Cron-J/Express-file-upload-download)
+[Express-Mongoose-Angular] (https://github.com/gauravgupta90/Hapi-Mongoose-Angular-Node.js)
 
 [Token-Based-Auth-With-User-Roles-Hapi-Mongoose-Mongodb-with-email-verification-and-forgot-password] (https://github.com/gauravgupta90/Token-based-Auth-with-user-role-in-Hapi-Mongoose-Mongodb-with-email-verification-and-forgot-password)
 
